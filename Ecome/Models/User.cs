@@ -10,7 +10,10 @@
 
         public string Password { get; set; }
 
-        public List<Produit> Produits {get; set;}   
+        //public List<Film> Films {get; set;}
+
+        //public List<Livre> Livres { get; set; }
+
 
 
     }

@@ -12,6 +12,12 @@ namespace Ecome.Models
         public DbSet<Film> Films{ get; set; }
         public DbSet<Livre> Livres { get; set; }
 
+        public DbSet<User> Users { get; set; }
+
+
+
+
+
 
 
     }
